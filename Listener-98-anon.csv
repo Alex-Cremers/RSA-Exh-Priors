@@ -1,0 +1,226 @@
+Participant,SubmitTime,WorkTimeInSeconds,Input.ApproxPrice,Input.ExactPrice,Input.Utterance,Input.World,Answer.comprehensionR0.0,Answer.comprehensionR1.1,Answer.comprehensionR2.2,Answer.comprehensionR3.3,Answer.comprehensionR4.4,Answer.comprehensionR5.5,Answer.comprehensionR6.6,Answer.comprehensionR7.7,Answer.comprehensionR8.8,Answer.posterior,Answer.prior
+264,Thu Jun 18 04:30:14 PDT 2020,86,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,85,100
+265,Thu Jun 18 01:42:36 PDT 2020,61,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,5,42
+266,Thu Jun 18 05:02:07 PDT 2020,325,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,39,79
+267,Thu Jun 18 04:42:12 PDT 2020,202,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,63,81
+268,Thu Jun 18 01:30:17 PDT 2020,52,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,85,90
+269,Thu Jun 18 02:28:38 PDT 2020,91,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,38,60
+270,Thu Jun 18 02:42:41 PDT 2020,248,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,88,19
+271,Thu Jun 18 02:24:49 PDT 2020,194,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,1,92
+272,Thu Jun 18 02:03:15 PDT 2020,32,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,100,100
+273,Thu Jun 18 01:18:34 PDT 2020,1008,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,4,7
+274,Thu Jun 18 01:06:56 PDT 2020,58,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,38,27
+275,Thu Jun 18 03:55:59 PDT 2020,57,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,11,69
+276,Thu Jun 18 04:22:26 PDT 2020,124,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,0,100
+277,Thu Jun 18 04:12:40 PDT 2020,81,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,13,85
+278,Thu Jun 18 02:31:18 PDT 2020,172,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,25,97
+279,Thu Jun 18 01:14:33 PDT 2020,236,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,5,20
+280,Thu Jun 18 04:02:19 PDT 2020,81,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,20,73
+281,Thu Jun 18 02:49:56 PDT 2020,142,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,4,81
+282,Thu Jun 18 04:15:48 PDT 2020,66,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,21,60
+283,Thu Jun 18 04:43:31 PDT 2020,42,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,12,87
+284,Thu Jun 18 02:15:29 PDT 2020,349,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,24,87
+285,Thu Jun 18 03:48:22 PDT 2020,96,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,5,4
+286,Thu Jun 18 00:36:20 PDT 2020,107,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,2,21
+287,Wed Jun 17 23:59:33 PDT 2020,49,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,16,49
+288,Thu Jun 18 03:02:52 PDT 2020,63,18,17.99,The sandwich,only the sandwich,true,false,false,false,false,false,false,false,false,0,20
+289,Thu Jun 18 04:22:20 PDT 2020,73,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,61,62
+290,Thu Jun 18 04:37:48 PDT 2020,79,19,18.99,The sandwich,only the sandwich,true,false,false,false,false,false,false,false,false,7,15
+291,Thu Jun 18 04:08:24 PDT 2020,1179,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,87,73
+292,Thu Jun 18 00:41:41 PDT 2020,197,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,34,100
+293,Thu Jun 18 03:22:54 PDT 2020,39,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,93,99
+294,Thu Jun 18 00:07:20 PDT 2020,90,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,54,97
+295,Thu Jun 18 03:33:26 PDT 2020,293,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,74,24
+296,Thu Jun 18 00:21:10 PDT 2020,66,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,85,92
+297,Thu Jun 18 01:32:47 PDT 2020,185,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,0,100
+298,Thu Jun 18 03:56:46 PDT 2020,40,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,4,81
+299,Thu Jun 18 02:08:45 PDT 2020,357,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,100,100
+300,Thu Jun 18 01:03:23 PDT 2020,236,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,99,99
+301,Wed Jun 17 23:55:31 PDT 2020,112,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,21,20
+302,Thu Jun 18 01:46:40 PDT 2020,175,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,31,78
+303,Thu Jun 18 00:52:10 PDT 2020,75,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,9,72
+304,Thu Jun 18 00:37:19 PDT 2020,79,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,0,30
+305,Thu Jun 18 01:57:11 PDT 2020,181,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,54,6
+306,Thu Jun 18 03:37:27 PDT 2020,81,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,8,67
+307,Thu Jun 18 03:41:24 PDT 2020,68,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,93,93
+308,Thu Jun 18 00:01:41 PDT 2020,64,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,5,31
+309,Thu Jun 18 04:04:11 PDT 2020,890,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,92,90
+310,Thu Jun 18 02:00:51 PDT 2020,127,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,10,41
+311,Thu Jun 18 02:16:50 PDT 2020,258,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,75,73
+312,Thu Jun 18 02:27:06 PDT 2020,114,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,73,41
+313,Thu Jun 18 00:58:27 PDT 2020,75,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,74,79
+314,Thu Jun 18 03:10:53 PDT 2020,263,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,66,76
+315,Thu Jun 18 04:15:21 PDT 2020,263,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,21,74
+316,Thu Jun 18 02:05:54 PDT 2020,137,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,10,15
+317,Thu Jun 18 03:43:31 PDT 2020,57,16,15.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,24,28
+318,Thu Jun 18 01:41:35 PDT 2020,128,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,29,82
+319,Thu Jun 18 03:40:12 PDT 2020,736,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,67,81
+320,Thu Jun 18 03:49:07 PDT 2020,73,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,58,100
+321,Thu Jun 18 04:33:31 PDT 2020,78,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,49,85
+322,Thu Jun 18 04:29:49 PDT 2020,70,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,50,77
+323,Thu Jun 18 00:12:10 PDT 2020,400,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,7,14
+324,Thu Jun 18 04:35:07 PDT 2020,443,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,1,82
+325,Thu Jun 18 04:27:10 PDT 2020,62,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,19,68
+326,Thu Jun 18 03:26:45 PDT 2020,75,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,14,27
+327,Thu Jun 18 04:04:22 PDT 2020,57,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,11,47
+329,Thu Jun 18 03:25:11 PDT 2020,231,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,9,27
+330,Thu Jun 18 01:23:43 PDT 2020,67,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,0,20
+331,Thu Jun 18 03:00:08 PDT 2020,132,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,63,68
+332,Thu Jun 18 03:24:40 PDT 2020,142,19,18.99,The sandwich,only the sandwich,true,false,false,false,false,false,false,false,false,0,0
+333,Thu Jun 18 01:45:22 PDT 2020,500,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,24,100
+334,Thu Jun 18 04:04:56 PDT 2020,66,12,11.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,false,true,79,80
+335,Thu Jun 18 04:41:12 PDT 2020,58,12,11.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,false,true,100,100
+336,Thu Jun 18 04:52:26 PDT 2020,91,12,11.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,false,true,100,26
+337,Thu Jun 18 04:50:21 PDT 2020,78,12,11.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,false,true,100,88
+338,Thu Jun 18 04:43:43 PDT 2020,90,12,11.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,false,true,100,77
+339,Thu Jun 18 04:06:47 PDT 2020,107,13,12.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,true,false,100,87
+340,Thu Jun 18 03:36:27 PDT 2020,184,13,12.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,true,false,100,86
+341,Thu Jun 18 03:58:59 PDT 2020,260,13,12.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,true,false,76,85
+342,Thu Jun 18 04:03:42 PDT 2020,47,13,12.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,true,false,100,86
+343,Thu Jun 18 04:12:47 PDT 2020,547,13,12.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,true,false,95,82
+344,Thu Jun 18 00:25:52 PDT 2020,92,14,13.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,true,false,false,78,75
+345,Thu Jun 18 04:50:40 PDT 2020,90,14,13.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,true,false,false,false,100,90
+346,Thu Jun 18 03:50:07 PDT 2020,168,14,13.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,true,false,false,99,79
+347,Thu Jun 18 04:18:11 PDT 2020,120,14,13.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,true,false,false,100,87
+348,Thu Jun 18 04:45:54 PDT 2020,260,14,13.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,true,false,false,100,23
+349,Thu Jun 18 02:01:18 PDT 2020,79,15,14.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,true,false,false,false,50,63
+350,Thu Jun 18 04:21:15 PDT 2020,62,15,14.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,true,false,false,false,100,21
+351,Thu Jun 18 00:03:03 PDT 2020,274,15,14.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,true,false,false,false,79,74
+352,Thu Jun 18 00:57:53 PDT 2020,67,15,14.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,true,false,false,false,97,93
+353,Thu Jun 18 04:19:58 PDT 2020,129,15,14.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,true,false,false,false,86,84
+354,Thu Jun 18 02:06:49 PDT 2020,169,16,15.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,true,false,false,false,false,100,74
+356,Thu Jun 18 03:34:07 PDT 2020,78,16,15.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,true,false,false,false,false,99,98
+357,Thu Jun 18 03:37:04 PDT 2020,79,16,15.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,true,false,false,false,false,100,100
+358,Thu Jun 18 04:12:17 PDT 2020,614,16,15.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,true,false,false,false,false,100,85
+359,Thu Jun 18 04:45:24 PDT 2020,789,17,16.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,true,false,false,false,false,false,100,80
+360,Thu Jun 18 04:22:51 PDT 2020,92,17,16.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,true,false,false,false,false,false,100,77
+361,Thu Jun 18 03:42:45 PDT 2020,137,17,16.99,The sandwich and the soup,both the sandwich and the soup,false,false,true,false,false,false,false,false,false,100,100
+362,Thu Jun 18 04:24:30 PDT 2020,61,17,16.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,true,false,false,false,false,false,100,11
+363,Thu Jun 18 03:52:32 PDT 2020,117,17,16.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,true,false,false,false,false,false,100,59
+364,Thu Jun 18 00:03:20 PDT 2020,97,18,17.99,The sandwich and the soup,both the sandwich and the soup,false,false,true,false,false,false,false,false,false,100,61
+365,Thu Jun 18 01:21:44 PDT 2020,156,18,17.99,The sandwich and the soup,both the sandwich and the soup,false,false,true,false,false,false,false,false,false,100,18
+366,Thu Jun 18 02:08:00 PDT 2020,77,18,17.99,The sandwich and the soup,both the sandwich and the soup,false,false,true,false,false,false,false,false,false,100,46
+367,Thu Jun 18 00:05:17 PDT 2020,98,18,17.99,The sandwich and the soup,both the sandwich and the soup,false,false,true,false,false,false,false,false,false,50,67
+368,Wed Jun 17 23:55:50 PDT 2020,61,18,17.99,The sandwich and the soup,both the sandwich and the soup,false,false,true,false,false,false,false,false,false,100,14
+369,Thu Jun 18 04:02:59 PDT 2020,227,19,18.99,The sandwich and the soup,both the sandwich and the soup,false,true,false,false,false,false,false,false,false,100,12
+370,Thu Jun 18 04:48:25 PDT 2020,300,19,18.99,The sandwich and the soup,both the sandwich and the soup,false,true,false,false,false,false,false,false,false,100,72
+371,Thu Jun 18 00:06:01 PDT 2020,114,19,18.99,The sandwich and the soup,both the sandwich and the soup,false,true,false,false,false,false,false,false,false,100,32
+372,Thu Jun 18 04:25:19 PDT 2020,61,19,18.99,The sandwich and the soup,both the sandwich and the soup,false,true,false,false,false,false,false,false,false,100,16
+373,Thu Jun 18 04:58:53 PDT 2020,123,19,18.99,The sandwich and the soup,both the sandwich and the soup,false,true,false,false,false,false,false,false,false,100,75
+374,Thu Jun 18 04:31:48 PDT 2020,95,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,100,100
+375,Thu Jun 18 00:48:04 PDT 2020,67,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,0,69
+376,Thu Jun 18 00:17:57 PDT 2020,68,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,100,100
+377,Thu Jun 18 04:16:43 PDT 2020,70,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,25,78
+378,Thu Jun 18 03:42:24 PDT 2020,111,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,58,95
+379,Thu Jun 18 01:09:20 PDT 2020,119,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,16,84
+380,Thu Jun 18 00:29:41 PDT 2020,99,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,59,70
+381,Thu Jun 18 00:48:39 PDT 2020,106,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,39,32
+382,Thu Jun 18 03:28:18 PDT 2020,74,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,22,62
+383,Thu Jun 18 03:15:02 PDT 2020,70,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,0,16
+384,Thu Jun 18 00:01:20 PDT 2020,72,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,41,100
+385,Thu Jun 18 00:15:57 PDT 2020,306,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,35,35
+387,Thu Jun 18 00:22:22 PDT 2020,84,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,100,100
+388,Wed Jun 17 23:57:53 PDT 2020,114,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,100,100
+389,Thu Jun 18 05:16:31 PDT 2020,460,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,27,77
+390,Thu Jun 18 04:18:54 PDT 2020,201,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,63,67
+391,Thu Jun 18 04:03:54 PDT 2020,174,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,12,89
+392,Thu Jun 18 04:48:51 PDT 2020,129,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,100,100
+393,Thu Jun 18 04:35:18 PDT 2020,92,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,100,100
+394,Thu Jun 18 03:07:22 PDT 2020,109,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,40,74
+395,Wed Jun 17 23:55:33 PDT 2020,101,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,78,100
+396,Thu Jun 18 00:02:48 PDT 2020,102,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,32,80
+398,Thu Jun 18 00:07:21 PDT 2020,716,16,15.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,50,80
+399,Thu Jun 18 04:00:11 PDT 2020,103,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,11,55
+400,Thu Jun 18 04:59:12 PDT 2020,81,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,23,67
+401,Thu Jun 18 04:06:48 PDT 2020,44,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,11,74
+402,Thu Jun 18 03:14:11 PDT 2020,64,17,16.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,0,19
+403,Thu Jun 18 04:34:02 PDT 2020,129,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,0,23
+404,Thu Jun 18 04:55:20 PDT 2020,733,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,0,71
+405,Thu Jun 18 04:47:06 PDT 2020,146,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,8,38
+406,Thu Jun 18 03:58:56 PDT 2020,60,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,79,84
+407,Thu Jun 18 02:35:39 PDT 2020,201,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,7,25
+409,Thu Jun 18 02:55:41 PDT 2020,94,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,63,91
+410,Thu Jun 18 00:16:42 PDT 2020,108,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,17,36
+411,Thu Jun 18 04:30:28 PDT 2020,119,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,71,70
+412,Thu Jun 18 04:01:17 PDT 2020,82,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,85,95
+413,Thu Jun 18 02:06:56 PDT 2020,75,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,7,100
+414,Thu Jun 18 03:56:21 PDT 2020,69,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,13,95
+415,Thu Jun 18 04:26:25 PDT 2020,61,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,79,75
+416,Thu Jun 18 04:07:11 PDT 2020,81,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,15,78
+417,Thu Jun 18 05:01:53 PDT 2020,91,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,46,79
+418,Thu Jun 18 00:39:19 PDT 2020,94,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,20,72
+419,Thu Jun 18 04:39:45 PDT 2020,274,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,73,50
+420,Thu Jun 18 04:08:11 PDT 2020,71,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,10,50
+421,Thu Jun 18 04:41:38 PDT 2020,51,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,24,85
+422,Thu Jun 18 04:52:54 PDT 2020,172,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,70,71
+423,Thu Jun 18 04:21:25 PDT 2020,58,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,72,79
+424,Thu Jun 18 00:22:06 PDT 2020,161,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,27,92
+425,Thu Jun 18 00:24:43 PDT 2020,177,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,100,100
+426,Thu Jun 18 04:23:48 PDT 2020,77,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,22,83
+427,Thu Jun 18 01:30:49 PDT 2020,129,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,14,100
+428,Thu Jun 18 04:45:10 PDT 2020,699,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,0,50
+429,Thu Jun 18 02:32:02 PDT 2020,137,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,23,66
+430,Wed Jun 17 23:59:57 PDT 2020,71,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,100,82
+431,Thu Jun 18 01:17:52 PDT 2020,104,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,26,73
+432,Thu Jun 18 04:35:07 PDT 2020,60,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,43,71
+433,Wed Jun 17 23:58:12 PDT 2020,187,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,0,100
+434,Wed Jun 17 23:55:37 PDT 2020,69,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,57,74
+435,Thu Jun 18 02:16:22 PDT 2020,97,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,70,76
+436,Thu Jun 18 02:29:56 PDT 2020,114,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,30,100
+437,Thu Jun 18 03:28:38 PDT 2020,334,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,16,78
+438,Thu Jun 18 01:34:41 PDT 2020,161,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,9,39
+439,Thu Jun 18 03:51:23 PDT 2020,152,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,19,73
+440,Thu Jun 18 03:32:31 PDT 2020,182,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,9,82
+441,Thu Jun 18 04:22:57 PDT 2020,207,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,40,82
+442,Thu Jun 18 04:27:35 PDT 2020,53,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,33,68
+443,Thu Jun 18 04:09:49 PDT 2020,94,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,10,21
+444,Thu Jun 18 03:51:23 PDT 2020,39,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,48,70
+445,Thu Jun 18 00:23:07 PDT 2020,35,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,0,64
+446,Thu Jun 18 02:46:21 PDT 2020,173,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,0,29
+447,Thu Jun 18 03:25:34 PDT 2020,99,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,4,4
+448,Thu Jun 18 04:06:17 PDT 2020,63,18,17.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,61,0
+449,Thu Jun 18 00:44:15 PDT 2020,100,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,25,72
+450,Thu Jun 18 02:40:39 PDT 2020,41,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,61,26
+451,Wed Jun 17 23:57:22 PDT 2020,68,19,18.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,4,17
+452,Thu Jun 18 02:35:54 PDT 2020,77,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,68,68
+453,Thu Jun 18 03:12:47 PDT 2020,502,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,6,88
+454,Thu Jun 18 01:23:41 PDT 2020,105,12,11.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,false,true,100,100
+455,Thu Jun 18 00:11:29 PDT 2020,110,12,11.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,false,true,100,84
+456,Wed Jun 17 23:56:24 PDT 2020,52,12,11.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,false,true,100,86
+457,Thu Jun 18 00:18:36 PDT 2020,216,12,11.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,false,true,71,79
+458,Thu Jun 18 00:12:06 PDT 2020,204,12,11.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,false,true,100,100
+459,Wed Jun 17 23:57:35 PDT 2020,152,13,12.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,true,false,86,95
+460,Thu Jun 18 00:10:08 PDT 2020,421,13,12.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,true,false,100,100
+461,Thu Jun 18 00:46:47 PDT 2020,396,13,12.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,true,false,100,30
+462,Thu Jun 18 03:48:39 PDT 2020,83,13,12.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,true,false,100,92
+463,Thu Jun 18 03:59:15 PDT 2020,659,13,12.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,true,false,91,73
+464,Thu Jun 18 03:03:42 PDT 2020,51,14,13.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,true,false,false,100,77
+465,Thu Jun 18 01:04:12 PDT 2020,154,14,13.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,true,false,false,100,83
+466,Wed Jun 17 23:58:11 PDT 2020,154,14,13.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,true,false,false,100,100
+467,Thu Jun 18 02:57:39 PDT 2020,60,14,13.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,true,false,100,81
+468,Thu Jun 18 01:26:29 PDT 2020,109,14,13.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,true,false,false,98,92
+469,Thu Jun 18 00:58:46 PDT 2020,30,15,14.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,true,false,false,false,100,100
+470,Thu Jun 18 01:53:13 PDT 2020,51,15,14.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,true,false,false,false,98,50
+471,Thu Jun 18 02:41:55 PDT 2020,218,15,14.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,true,false,false,false,100,66
+472,Thu Jun 18 02:38:49 PDT 2020,65,15,14.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,true,false,false,false,100,79
+473,Thu Jun 18 01:03:39 PDT 2020,174,15,14.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,true,false,false,false,100,17
+474,Thu Jun 18 00:37:26 PDT 2020,158,16,15.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,true,false,false,false,false,100,100
+475,Thu Jun 18 02:25:33 PDT 2020,148,16,15.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,true,false,false,false,false,100,80
+476,Thu Jun 18 03:07:41 PDT 2020,53,16,15.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,true,false,false,false,false,100,74
+477,Thu Jun 18 03:12:58 PDT 2020,153,16,15.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,true,false,false,false,false,false,100,68
+478,Thu Jun 18 00:52:48 PDT 2020,97,16,15.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,true,false,false,false,false,100,18
+479,Thu Jun 18 00:27:46 PDT 2020,114,17,16.99,The sandwich and the soup,both the sandwich and the soup,false,false,true,false,false,false,false,false,false,100,22
+480,Thu Jun 18 00:41:01 PDT 2020,162,17,16.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,true,false,false,false,false,false,100,51
+481,Thu Jun 18 02:27:12 PDT 2020,251,17,16.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,true,false,false,false,false,false,50,100
+482,Thu Jun 18 01:33:43 PDT 2020,84,17,16.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,true,false,false,false,false,false,96,86
+483,Thu Jun 18 01:54:06 PDT 2020,46,17,16.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,true,false,false,false,false,false,100,16
+484,Thu Jun 18 01:31:34 PDT 2020,57,18,17.99,The sandwich and the soup,both the sandwich and the soup,false,false,true,false,false,false,false,false,false,100,41
+485,Thu Jun 18 01:56:18 PDT 2020,103,18,17.99,The sandwich and the soup,both the sandwich and the soup,false,false,true,false,false,false,false,false,false,100,91
+486,Thu Jun 18 04:10:50 PDT 2020,113,18,17.99,The sandwich and the soup,both the sandwich and the soup,false,false,true,false,false,false,false,false,false,100,79
+487,Thu Jun 18 03:37:17 PDT 2020,55,18,17.99,The sandwich and the soup,both the sandwich and the soup,false,false,true,false,false,false,false,false,false,95,63
+488,Thu Jun 18 01:58:32 PDT 2020,124,18,17.99,The sandwich and the soup,both the sandwich and the soup,false,false,true,false,false,false,false,false,false,96,79
+489,Thu Jun 18 04:07:43 PDT 2020,113,19,18.99,The sandwich and the soup,both the sandwich and the soup,false,true,false,false,false,false,false,false,false,96,83
+490,Thu Jun 18 00:14:00 PDT 2020,180,19,18.99,The sandwich and the soup,both the sandwich and the soup,false,true,false,false,false,false,false,false,false,100,8
+491,Thu Jun 18 04:02:23 PDT 2020,130,19,18.99,The sandwich and the soup,both the sandwich and the soup,false,true,false,false,false,false,false,false,false,100,31
+492,Thu Jun 18 04:06:35 PDT 2020,23,19,18.99,The sandwich and the soup,both the sandwich and the soup,false,true,false,false,false,false,false,false,false,88,24
+493,Thu Jun 18 02:47:56 PDT 2020,76,19,18.99,The sandwich and the soup,both the sandwich and the soup,false,true,false,false,false,false,false,false,false,100,100

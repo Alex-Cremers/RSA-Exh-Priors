@@ -1,0 +1,16 @@
+Participant,SubmitTime,WorkTimeInSeconds,Input.ApproxPrice,Input.ExactPrice,Input.Utterance,Input.World,Answer.comprehensionR0.0,Answer.comprehensionR1.1,Answer.comprehensionR2.2,Answer.comprehensionR3.3,Answer.comprehensionR4.4,Answer.comprehensionR5.5,Answer.comprehensionR6.6,Answer.comprehensionR7.7,Answer.comprehensionR8.8,Answer.prior,Answer.utterance,Message
+1,Wed Jun 17 11:28:24 PDT 2020,187,13,12.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,true,false,86,I do not actually like to eat the soup.,!b
+2,Wed Jun 17 19:53:08 PDT 2020,103,12,11.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,false,true,100,I ordered the club sandwich and the chickpea soup.,a&b
+3,Wed Jun 17 11:22:22 PDT 2020,167,14,13.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,true,false,false,75,The sandwich and the soup because of the deal.,a&b
+4,Wed Jun 17 11:22:17 PDT 2020,106,15,14.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,true,false,false,false,85,I ordered the club sandwich and chickpea soup deal,a&b
+5,Wed Jun 17 11:35:10 PDT 2020,67,19,18.99,The sandwich and the soup,both the sandwich and the soup,false,true,false,false,false,false,false,false,false,10,I think it was worth it.,NA
+6,Wed Jun 17 11:22:30 PDT 2020,106,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,84,I decided I just wanted a club sandwich by itself.,a&!b
+7,Wed Jun 17 12:05:13 PDT 2020,1037,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,28,"""I ordered a Club sandwich.""",a
+8,Wed Jun 17 11:23:29 PDT 2020,181,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,71,I ordered the club sandwich.,a
+9,Wed Jun 17 11:24:09 PDT 2020,140,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,25,Just a sandwich,a&!b
+10,Wed Jun 17 11:26:37 PDT 2020,170,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,100,"Alex: ""I only ordered a sandwich.""",a&!b
+11,Wed Jun 17 12:10:42 PDT 2020,190,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,100,I don't like soup so I didn't get the deal,!b
+12,Wed Jun 17 11:31:27 PDT 2020,309,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,68,I only ordered the sandwich and not the soup.,a&!b
+13,Wed Jun 17 20:39:15 PDT 2020,106,17,16.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,80,I got the sandwich only.,a&!b
+14,Wed Jun 17 20:48:06 PDT 2020,83,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,77,The club sandwich,a
+15,Wed Jun 17 16:21:35 PDT 2020,202,17,16.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,true,false,false,false,false,false,79,I ordered today's deal and got a sandwich and soup,a&b

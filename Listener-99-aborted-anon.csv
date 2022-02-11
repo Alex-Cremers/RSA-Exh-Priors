@@ -1,0 +1,15 @@
+Participant,SubmitTime,WorkTimeInSeconds,Input.ApproxPrice,Input.ExactPrice,Input.Utterance,Input.World,Answer.comprehensionR0.0,Answer.comprehensionR1.1,Answer.comprehensionR2.2,Answer.comprehensionR3.3,Answer.comprehensionR4.4,Answer.comprehensionR5.5,Answer.comprehensionR6.6,Answer.comprehensionR7.7,Answer.comprehensionR8.8,Answer.posterior,Answer.prior
+250,Wed Jun 17 11:39:48 PDT 2020,117,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,32,60
+251,Wed Jun 17 22:25:04 PDT 2020,97,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,11,100
+252,Wed Jun 17 11:55:31 PDT 2020,106,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,36,88
+253,Wed Jun 17 18:35:58 PDT 2020,59,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,73,91
+254,Wed Jun 17 15:07:09 PDT 2020,187,12,11.99,The sandwich,only the sandwich,false,false,false,false,false,false,false,false,true,29,89
+255,Wed Jun 17 16:05:51 PDT 2020,91,15,14.99,The sandwich,only the sandwich,false,false,false,false,false,true,false,false,false,14,85
+256,Wed Jun 17 11:35:11 PDT 2020,115,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,36,82
+257,Wed Jun 17 11:58:06 PDT 2020,109,17,16.99,The sandwich,only the sandwich,false,false,false,true,false,false,false,false,false,84,87
+258,Wed Jun 17 17:30:50 PDT 2020,146,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,2,19
+259,Wed Jun 17 11:55:18 PDT 2020,97,14,13.99,The sandwich,only the sandwich,false,false,false,false,false,false,true,false,false,25,88
+260,Wed Jun 17 21:56:45 PDT 2020,68,16,15.99,The sandwich,only the sandwich,false,false,false,false,true,false,false,false,false,11,82
+261,Wed Jun 17 21:59:44 PDT 2020,202,18,17.99,The sandwich,only the sandwich,false,false,true,false,false,false,false,false,false,100,100
+262,Wed Jun 17 11:58:24 PDT 2020,58,19,18.99,The sandwich,only the sandwich,false,true,false,false,false,false,false,false,false,30,81
+263,Wed Jun 17 11:57:05 PDT 2020,145,13,12.99,The sandwich and the soup,both the sandwich and the soup,false,false,false,false,false,false,false,true,false,100,87
